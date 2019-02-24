@@ -1,0 +1,25 @@
+{
+  "name": "gmailapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "nodemailer": "^5.1.1",
+    "nodemailer-smtp-transport": "^2.7.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amehybrid/gmailapi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amehybrid/gmailapi/issues"
+  },
+  "homepage": "https://github.com/amehybrid/gmailapi#readme",
+  "description": ""
+}
